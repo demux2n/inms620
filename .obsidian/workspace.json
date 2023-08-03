@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "8aa9840f2bd1fa1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "62713e5ef486f1f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3caf4501c7ead27e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "694bce1264de6bca",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c55ded6273ea82c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598270194baf1816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44fe778135a65d33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#smuggling",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c200ab22cabf2b29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b798821ffb4f6be",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ac81ccfc5f682a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0ce4f4148b2e73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1ebbdd1737e92fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64b923922e69c682",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f6a1995ba1b3ba8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3caf4501c7ead27e",
+  "lastOpenFiles": [
+    "images/all-all.png",
+    "images/frontcompany-all.png",
+    "images/colorcoding.png",
+    "images/smuggling-iran.png",
+    "images/moneylaundering-iran.png",
+    "images/frontcompany.png",
+    "images",
+    "README.md~",
+    "README.md",
+    "20-850.md",
+    "press-release/23-645.md",
+    "press-release/23-560.md",
+    "press-release/23-471.5.md",
+    "press-release/23-431.md",
+    "press-release/23-379.md",
+    "press-release/23-354.md",
+    "press-release/22-421.md",
+    "press-release/22-1130.md",
+    "press-release/21-719.md",
+    "press-release/21-67.md",
+    "press-release/21-389.md",
+    "press-release/21-118.md",
+    "press-release/20-850.md",
+    "press-release/20-793.md",
+    "press-release/20-692.md",
+    "press-release/20-617.md",
+    "press-release/20-415.md",
+    "press-release/20-35.md",
+    "press-release/20-230.md",
+    "press-release/20-1219.md",
+    "press-release/20-1184.md",
+    "press-release/18-010.md",
+    "press-release/16-1361.md",
+    "press-release"
+  ]
+}
